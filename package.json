@@ -14,7 +14,7 @@
     "@astrojs/svelte": "^5.0.2",
     "@astrojs/tailwind": "^5.0.4",
     "@preline/overlay": "^2.0.2",
-    "astro": "^4.0.7",
+    "astro": "^4.16.3",
     "astro-expressive-code": "^0.32.3",
     "boxicons": "^2.1.4",
     "preline": "^2.0.3",
